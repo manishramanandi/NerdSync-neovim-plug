@@ -1,0 +1,1 @@
+# NerdSync-neovim-plug
